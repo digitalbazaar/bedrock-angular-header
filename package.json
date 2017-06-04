@@ -1,0 +1,22 @@
+{
+  "name": "bedrock-angular-header",
+  "version": "0.0.1-0",
+  "description": "Provides simple br-header Angular component.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-angular-header.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-angular-header/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-angular-header#readme",
+  "dependencies": {
+    "angular": "~1.6.4",
+    "bedrock-angular-alert": "^3.0.0",
+    "bedrock-angular-navbar": "^4.0.1"
+  },
+  "bedrock": {
+    "browserDependencies": "all"
+  }
+}
