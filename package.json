@@ -12,8 +12,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-angular-header#readme",
   "dependencies": {
-    "angular": "~1.6.4",
-    "bedrock-angular-alert": "^3.0.0",
+    "bedrock-angular": "^3.0.0",
     "bedrock-angular-navbar": "^4.0.1"
   },
   "bedrock": {
