@@ -13,7 +13,7 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-angular-header#readme",
   "dependencies": {
     "bedrock-angular": "^4.0.0",
-    "bedrock-angular-navbar": "^4.0.1"
+    "bedrock-angular-navbar": "^5.0.0"
   },
   "bedrock": {
     "browserDependencies": "all"
